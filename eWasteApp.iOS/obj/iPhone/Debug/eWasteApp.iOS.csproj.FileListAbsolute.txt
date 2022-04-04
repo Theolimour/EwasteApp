@@ -1,0 +1,13 @@
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\optimized\
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\eWasteApp.iOS.csproj.AssemblyReference.cache
+C:\Development\eWasteApp\eWasteApp.iOS\obj\iPhone\Debug\eWasteApp.iOS.csproj.CoreCompileInputs.cache

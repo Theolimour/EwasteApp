@@ -1,2 +1,0 @@
-# EwasteApp
-Wasteapp Repo
